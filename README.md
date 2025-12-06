@@ -1,4 +1,4 @@
-# spcsim
+# SPCsim
 <p style="text-align: center;"><span style="font-family: 'times new roman', times, serif; font-size: 12pt;"><strong>SPCsim</strong></span></p>
 
 
